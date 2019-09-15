@@ -1,6 +1,6 @@
 # Your code here
 def meal_choice(protein = "meat", veg1, veg2)
-  print "A plate of #{protein} with #{veg1} and #{veg2}."
+  p "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
 meal_choice("broccoli", "macaroni")
